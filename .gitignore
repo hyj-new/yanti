@@ -1,0 +1,18 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+# Signing / secrets
+*.jks
+*.keystore
+*.p12
+*.pfx
+key.properties
